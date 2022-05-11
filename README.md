@@ -1,11 +1,11 @@
 Hi 👋 My name is Mauricio
 =========================
 
-I've worked as a Systems Administrator and IT Support Technician for 2.5 years and recently made a career change and started working as a Full Stack Developer.
+I've worked as a Systems Administrator and IT Support Technician and recently made a career change and started working as a Full Stack Software Developer.
 
 * 🌍  I'm based in Montevideo Uruguay
 * ✉️  You can contact me at [mauriciodbarrera@gmail.com](mailto:mauriciodbarrera@gmail.com)
-* 🧠  I'm learning React, Django and C#. I’m currently studying Business Administration and Computer Engineering at Universidad de la Republica.
+* 🧠  I’m currently studying Business Administration and Computer Engineering at Universidad de la Republica.
 
 <a href="https://www.twitter.com/mouib" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mouib?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
