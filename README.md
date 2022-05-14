@@ -7,9 +7,6 @@ I've worked as a Systems Administrator and IT Support Technician and recently ma
 * ✉️  You can contact me at [mauriciodbarrera@gmail.com](mailto:mauriciodbarrera@gmail.com)
 * 🧠  I’m currently studying Business Administration and Computer Engineering at Universidad de la Republica.
 
-<a href="https://www.twitter.com/mouib" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mouib?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
-/></a>
 ### Skills
 
 <p align="left">
@@ -25,7 +22,3 @@ src="https://img.shields.io/twitter/follow/mouib?logo=twitter&style=for-the-badg
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/moui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mauribarrera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mouib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
