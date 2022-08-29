@@ -1,9 +1,11 @@
 Hi 👋 My name is Mauricio
 =========================
 
-I've worked as a Systems Administrator and IT Support Technician and recently made a career change and started working as a Full Stack Software Developer.
+I currently work as a full stack software developer and team leader. My team and I focus on building GIS custom solutions integrating esri's ArcGIS API for JavaScript, ArcGIS REST API and front-end development with React. I also help with project managment tasks. 
 
-* 🌍  I'm based in Montevideo Uruguay
+In the past I've worked as an IT Support Technician and as Systems Administrator.
+
+* 🌍  I'm based in Montevideo Uruguay and work at Ingenieros Consultores Asociados
 * ✉️  You can contact me at [mauriciodbarrera@gmail.com](mailto:mauriciodbarrera@gmail.com)
 * 🧠  I’m currently studying Business Administration and Computer Engineering at Universidad de la Republica.
 
