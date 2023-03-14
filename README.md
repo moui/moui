@@ -17,7 +17,7 @@ In the past I've worked as an IT Support Technician and as Systems Administrator
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/esri-3.svg" width="36" height="36" alt="ArcGIS Maps SDK for JavaScript" /></a>                    
+<a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" width="36" height="36" alt="ArcGIS Maps SDK for JavaScript" /></a>                    
 </p>
 
 ### Backend
