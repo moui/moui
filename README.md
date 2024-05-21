@@ -34,5 +34,9 @@ In the past I've worked as an IT Support Technician and as Systems Administrator
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
+### Certifications
+<p align="left">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/MauricioBarrera-4176/404C4EFB9C9B3F37?sharingId=D35033A1D1EA731C" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="36" height="36" alt="Azure Fundamentals" /></a>
 </p>
