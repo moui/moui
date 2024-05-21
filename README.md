@@ -1,6 +1,6 @@
-I currently work as a full stack software developer and team leader.
+I currently work as a full stack software developer, ocational team leader, and jr. project manager.
 
-My team and I focus on building GIS custom solutions integrating esri's ArcGIS API for JavaScript, ArcGIS REST API and front-end development with React, with custom backend services and esri's ArcGIS solutions.
+I work on building GIS custom solutions integrating esri's ArcGIS API for JavaScript, ArcGIS REST API and front-end development with React (or any other framwork), with custom backend services (in .Net or Python) and esri's ArcGIS solutions.
 
 In the past I've worked as an IT Support Technician and as Systems Administrator for the Ministry of Defence of Uruguay.
 
