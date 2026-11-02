@@ -49,6 +49,25 @@ Before moving into software development, I worked in IT support and systems admi
 <a href="mailto:mauriciodbarrera@gmail.com"><img src="https://img.shields.io/badge/Email-mauriciodbarrera%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/mauribarrera"><img src="https://img.shields.io/badge/LinkedIn-mauribarrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
+## 💼 Work at ICA
+
+Most of my work is client software that isn't public. These are some of the projects I've worked on, described without client names.
+
+- 🔥 **Wildfire and firefighting operations platform**: an integrated system for a national forestry organization that records smoke and fire events, alerts affected properties, dispatches ground and air resources, and measures response times across the season.  
+  *TypeScript · .NET · ArcGIS Enterprise · Azure*
+- ⛽ **Fuel distribution logistics platform**: a full-stack application that combines operational and geospatial data, with map viewers for monitoring routes and vehicles in real time.  
+  *Angular · .NET · ArcGIS Maps SDK for JavaScript · ArcGIS Enterprise*
+- 🌾 **Agricultural traceability GIS API**: a REST component that validates cadastral parcels and exchanges data with a national agricultural traceability platform built for EUDR compliance.  
+  *ArcGIS · REST APIs*
+- 🐘 **Global conservation impact map**: an interactive map of field operations and activity data, embedded in the platform of a global wildlife-conservation nonprofit.  
+  *React · ArcGIS Maps SDK for JavaScript · TypeScript*
+- 🏘️ **Cadastral viewer and property-tax records**: a configurable Angular viewer and a .NET API for searching records, designed to be deployed across multiple counties and municipalities.  
+  *Angular · .NET · ArcGIS Maps SDK for JavaScript*
+- 🚚 **Freight analytics frontend**: a new Angular 19 front end for a freight logistics platform, with map components for analyzing transportation and distribution data.  
+  *Angular 19 · ArcGIS Maps SDK for JavaScript*
+- 🏗️ **Enterprise GIS platform migration**: moving a large ArcGIS Enterprise deployment from 10.9.1 to 11.3, including compatibility assessment, service migration and platform validation.  
+  *ArcGIS Enterprise · ArcGIS Server*
+
 ## 📌 Selected public projects
 
 ### Kimai plugins
