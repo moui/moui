@@ -1,13 +1,55 @@
-# Hi, I'm Mauricio Barrera
+# Hi, I'm Mauricio Barrera 👋
 
 **Full-stack developer · GIS · Cloud · Technical leadership**  
-Montevideo, Uruguay
+📍 Montevideo, Uruguay · 🏢 [ICA – Ingenieros Consultores Asociados](https://www.ica.com.uy)
 
 I build web and mobile applications, APIs, and geospatial solutions. At **ICA**, I combine hands-on development with team leadership and project coordination, connecting software, ArcGIS, and cloud infrastructure to support real operational workflows.
 
 My background in systems administration also shapes how I build: deployment, monitoring, and ongoing operation are part of the work.
 
-## Selected public projects
+## 🛠️ What I work on
+
+- 🗺️ **Geospatial applications:** interactive web maps with the ArcGIS Maps SDKs, publishing and managing data on ArcGIS Enterprise and ArcGIS Online, spatial data in PostGIS, and operational dashboards for teams that work in the field.
+- 💻 **Web and mobile development:** Angular and React front ends, Flutter apps, and APIs in .NET, Node.js, and Python, including authentication and integrations between systems.
+- 🧩 **Internal tools and business software:** extending open-source platforms to fit how a company actually works, such as time tracking, capacity planning, and reporting in Kimai, or self-hosted Odoo deployments.
+- 🤖 **AI with spatial data:** experimenting with language models that query GIS layers and answer questions on a map.
+- ☁️ **Cloud and operations:** Azure, Docker, and IIS deployments, CI/CD with Azure DevOps and GitHub Actions, infrastructure migrations, and logging, metrics, and alerting with Grafana, Prometheus, Loki, and OpenTelemetry.
+- 🧭 **Technical delivery:** turning requirements into implementation plans, reviewing code, mentoring developers, and coordinating releases with clients.
+
+## 🧰 Technologies
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=ts,angular,react,vite,html,css" alt="TypeScript, Angular, React, Vite, HTML, CSS" />
+
+**Mobile**  
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,nodejs,php,symfony" alt="C#, .NET, Python, Node.js, PHP, Symfony" />
+
+**GIS and data**  
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />&nbsp;
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" height="48" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" height="48" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+
+**Cloud, delivery and observability**  
+<img src="https://skillicons.dev/icons?i=azure,docker,githubactions,linux,grafana,prometheus" alt="Azure, Docker, GitHub Actions, Linux, Grafana, Prometheus" />&nbsp;
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" height="48" />
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" height="48" />
+
+## 🎓 Background
+
+Before moving into software development, I worked in IT support and systems administration at Uruguay’s Ministry of Defence. My studies in Computer Engineering and Business Administration at Universidad de la República complement my work across engineering and project delivery.
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/MauricioBarrera-4176/404C4EFB9C9B3F37?sharingId=D35033A1D1EA731C"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="64" height="64" alt="Microsoft Certified: Azure Fundamentals" /></a>
+
+## 📬 Get in touch
+
+<a href="mailto:mauriciodbarrera@gmail.com"><img src="https://img.shields.io/badge/Email-mauriciodbarrera%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mauribarrera"><img src="https://img.shields.io/badge/LinkedIn-mauribarrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+## 📌 Selected public projects
 
 ### Kimai plugins
 
@@ -36,32 +78,3 @@ An interactive map exploring women’s representation in Montevideo’s streets 
 A Spanish-language company website with a product showcase, contact flows through email and WhatsApp, and analytics with visitor opt-in. The repository includes development and publishing instructions, automated checks, and analytics documentation.
 
 **React · Vite · GitHub Actions**
-
-## What I work on
-
-- **Geospatial applications:** interactive maps, spatial data, ArcGIS integrations, and operational dashboards.
-- **Web and mobile development:** user interfaces, APIs, authentication, and integrations between systems.
-- **Cloud and operations:** deployments, CI/CD, infrastructure migrations, logging, metrics, and alerting.
-- **Technical delivery:** translating requirements into implementation plans, reviewing code, mentoring developers, and coordinating releases.
-
-## Core technologies
-
-| Area | Technologies |
-| --- | --- |
-| Frontend | TypeScript, Angular, React, Vite |
-| Mobile | Flutter, Dart |
-| Backend | C# / .NET, Python, Node.js, PHP / Symfony |
-| GIS | ArcGIS Maps SDKs, ArcGIS Enterprise, ArcGIS Online, PostGIS |
-| Data | PostgreSQL, SQL Server |
-| Cloud & delivery | Azure, Docker, IIS, Azure DevOps, GitHub Actions |
-| Observability | Grafana, Prometheus, Loki, OpenTelemetry |
-
-## Background
-
-Before moving into software development, I worked in IT support and systems administration at Uruguay’s Ministry of Defence. My studies in Computer Engineering and Business Administration at Universidad de la República complement my work across engineering and project delivery.
-
-[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MauricioBarrera-4176/404C4EFB9C9B3F37?sharingId=D35033A1D1EA731C)
-
-## Get in touch
-
-[mauriciodbarrera@gmail.com](mailto:mauriciodbarrera@gmail.com)
