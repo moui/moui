@@ -55,7 +55,7 @@ Before moving into software development, I worked in IT support and systems admi
 
 Most of my work is client software that isn't public, so here is what it does and what I did on it.
 
-### 🔥 SGI: Fire Management System · [Sociedad de Productores Forestales](https://www.spf.com.uy)
+### 🔥 SGI: Fire Management System · Sociedad de Productores Forestales
 
 The wildfire detection and response platform used by Uruguay's forestry companies. It records smoke and fire events reported by towers, cameras, aircraft and people, identifies the properties at risk and alerts their owners, dispatches ground and air resources by protocol, and measures every step of the response. It has been in operation since 2022 and is used throughout each fire season.
 
@@ -68,14 +68,12 @@ The wildfire detection and response platform used by Uruguay's forestry companie
 
 *React · TypeScript · Redux Toolkit · Mantine · ArcGIS Maps SDK · .NET · SQL Server · Azure · Grafana*
 
-I also built the SPF's **phytosanitary surveillance dashboards**: embedded Power BI reports with access controlled through ArcGIS Online groups.
-
 ### 🐘 WCS Map Component · [Wildlife Conservation Society](https://www.wcs.org)
 
 A React map library used in WCS's own platform to show its conservation sites, field operations and activity data around the world. ICA has developed and maintained it since 2022, releasing new features at the request of WCS's Conservation Technology team.
 
 **My role:**
-- Lead developer of the component, published as an npm package with a QA and demo site.
+- Lead developer of the component and maintainer of its npm package, [`wcsmap-v2`](https://www.npmjs.com/package/wcsmap-v2).
 - Its documentation.
 - Azure Functions and ArcGIS Pro tools that automate ArcGIS administration and data updates.
 
