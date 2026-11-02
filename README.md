@@ -68,7 +68,7 @@ The wildfire detection and response platform used by Uruguay's forestry companie
 
 *React · TypeScript · Redux Toolkit · Mantine · ArcGIS Maps SDK · .NET · SQL Server · Azure · Grafana*
 
-### 🐘 WCS Map Component · [Wildlife Conservation Society](https://www.wcs.org)
+### 🐘 [WCS Impact Map Component](https://github.com/WCS-ConsTech/impact-map-component) · [Wildlife Conservation Society](https://www.wcs.org)
 
 A React map library used in WCS's own platform to show its conservation sites, field operations and activity data around the world. ICA has developed and maintained it since 2022, releasing new features at the request of WCS's Conservation Technology team.
 
