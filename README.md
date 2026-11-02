@@ -12,7 +12,9 @@ My background in systems administration also shapes how I build: deployment, mon
 - 🗺️ **Geospatial applications:** interactive web maps with the ArcGIS Maps SDKs, publishing and managing data on ArcGIS Enterprise and ArcGIS Online, spatial data in PostGIS, and operational dashboards for teams that work in the field.
 - 💻 **Web and mobile development:** Angular and React front ends, Flutter apps, and APIs in .NET, Node.js, and Python, including authentication and integrations between systems.
 - 🧩 **Internal tools and business software:** extending open-source platforms to fit how a company actually works, such as time tracking, capacity planning, and reporting in Kimai, or self-hosted Odoo deployments.
-- 🤖 **AI with spatial data:** experimenting with language models that query GIS layers and answer questions on a map.
+- 📐 **Systems design and architecture:** designing solutions end to end, from components and integrations to environments, infrastructure as code, and how a system will be operated once it's live.
+- 📝 **Technical proposals:** writing solution approaches, architecture and work plans for public tenders, R&D calls, and international RFPs.
+- 🤖 **AI with spatial data:** MCP tools that let language models query GIS data, plus AI-assisted engineering practices for the team.
 - ☁️ **Cloud and operations:** Azure, Docker, and IIS deployments, CI/CD with Azure DevOps and GitHub Actions, infrastructure migrations, and logging, metrics, and alerting with Grafana, Prometheus, Loki, and OpenTelemetry.
 - 🧭 **Technical delivery:** turning requirements into implementation plans, reviewing code, mentoring developers, and coordinating releases with clients.
 
@@ -51,22 +53,51 @@ Before moving into software development, I worked in IT support and systems admi
 
 ## 💼 Work at ICA
 
-Most of my work is client software that isn't public. These are some of the projects I've worked on, described without client names.
+Most of my work is client software that isn't public, so here is what it does and what I did on it.
 
-- 🔥 **Wildfire and firefighting operations platform**: an integrated system for a national forestry organization that records smoke and fire events, alerts affected properties, dispatches ground and air resources, and measures response times across the season.  
-  *TypeScript · .NET · ArcGIS Enterprise · Azure*
-- ⛽ **Fuel distribution logistics platform**: a full-stack application that combines operational and geospatial data, with map viewers for monitoring routes and vehicles in real time.  
-  *Angular · .NET · ArcGIS Maps SDK for JavaScript · ArcGIS Enterprise*
-- 🌾 **Agricultural traceability GIS API**: a REST component that validates cadastral parcels and exchanges data with a national agricultural traceability platform built for EUDR compliance.  
-  *ArcGIS · REST APIs*
-- 🐘 **Global conservation impact map**: an interactive map of field operations and activity data, embedded in the platform of a global wildlife-conservation nonprofit.  
-  *React · ArcGIS Maps SDK for JavaScript · TypeScript*
-- 🏘️ **Cadastral viewer and property-tax records**: a configurable Angular viewer and a .NET API for searching records, designed to be deployed across multiple counties and municipalities.  
-  *Angular · .NET · ArcGIS Maps SDK for JavaScript*
-- 🚚 **Freight analytics frontend**: a new Angular 19 front end for a freight logistics platform, with map components for analyzing transportation and distribution data.  
-  *Angular 19 · ArcGIS Maps SDK for JavaScript*
-- 🏗️ **Enterprise GIS platform migration**: moving a large ArcGIS Enterprise deployment from 10.9.1 to 11.3, including compatibility assessment, service migration and platform validation.  
-  *ArcGIS Enterprise · ArcGIS Server*
+### 🔥 SGI: Fire Management System · [Sociedad de Productores Forestales](https://www.spf.com.uy)
+
+The wildfire detection and response platform used by Uruguay's forestry companies. It records smoke and fire events reported by towers, cameras, aircraft and people, identifies the properties at risk and alerts their owners, dispatches ground and air resources by protocol, and measures every step of the response. It has been in operation since 2022 and is used throughout each fire season.
+
+**My role:** lead developer and technical lead, across the system:
+- Most of the web app: a React PWA for dispatchers and field crews, with ArcGIS maps, WhatsApp and email communications, and embedded Power BI reports.
+- The .NET backend and its integration APIs: a fire-detection camera system, a messaging platform, and weather data.
+- Geospatial ingestion and geoprocessing jobs: weather observations, rasters and satellite data, running in Azure Functions.
+- Observability: Grafana Cloud with Alloy agents inside the Azure network, with dashboards and alerts for platform health and data flows.
+- A design for an AI assistant that answers questions about live events and resources through MCP tools over ArcGIS Enterprise.
+
+*React · TypeScript · Redux Toolkit · Mantine · ArcGIS Maps SDK · .NET · SQL Server · Azure · Grafana*
+
+I also built the SPF's **phytosanitary surveillance dashboards**: embedded Power BI reports with access controlled through ArcGIS Online groups.
+
+### 🐘 WCS Map Component · [Wildlife Conservation Society](https://www.wcs.org)
+
+A React map library used in WCS's own platform to show its conservation sites, field operations and activity data around the world. ICA has developed and maintained it since 2022, releasing new features at the request of WCS's Conservation Technology team.
+
+**My role:**
+- Lead developer of the component, published as an npm package with a QA and demo site.
+- Its documentation.
+- Azure Functions and ArcGIS Pro tools that automate ArcGIS administration and data updates.
+
+*React · TypeScript · ArcGIS Maps SDK · Mantine · Azure Functions · ArcGIS Pro*
+
+### 🌾 EUDR compliance for agricultural traceability
+
+The GIS side of a national traceability system that lets producers certify that exports meet the EU Deforestation Regulation (EUDR).
+
+**My role:** led the GIS team:
+- Designed the geospatial architecture: an enterprise geodatabase, three environments, and ArcGIS Enterprise.
+- Built the .NET GIS API that validates cadastral parcels for other systems.
+- Built the geoprocessing service that generates EUDR GeoJSON files with topology checks, published through Azure DevOps pipelines.
+
+*ArcGIS Enterprise · ArcPy · .NET · SQL Server · MongoDB · Azure DevOps*
+
+### Other client work
+
+- Map-based platforms for fuel distribution and freight logistics, built with Angular, .NET and ArcGIS.
+- Configurable cadastral and property-tax viewers deployed across several municipalities.
+- Upgrading an enterprise ArcGIS platform from 10.9.1 to 11.3.
+- Technical proposals and solution architecture for public tenders and international RFPs.
 
 ## 📌 Selected public projects
 
